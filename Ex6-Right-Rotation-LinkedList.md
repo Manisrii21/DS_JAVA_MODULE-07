@@ -16,8 +16,8 @@ Display the rotated linked list.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: M MANI SRI LATHA
-RegisterNumber:  212223110025
+Developed by: 
+RegisterNumber:  
 */
 ```
 ```
